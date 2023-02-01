@@ -12,8 +12,6 @@
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MariaWerlang&color=87CEFA&bg_color=0d1117&sl_color=E0FFFF&hide_border=true&area=true)
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
