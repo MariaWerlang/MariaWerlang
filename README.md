@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=180&section=header"/>
+
 <div align="center">
   <a href=""><img src="https://wallpaperaccess.com/full/7787.jpg" width="1000" height="500" border="0" alt="https://picasion.com/" /></a>
 </div> 
