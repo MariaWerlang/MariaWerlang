@@ -1,4 +1,4 @@
-<h1 align="center"> Maria Werlang </h1>
+<h1 align="center" color="0000FF"> Maria Werlang </h1>
 <div align="center">
   <a href=""><img src="https://wallpaperaccess.com/full/7790.png" width="1000" height="500" border="0" alt="https://picasion.com/" /></a>
 </div> 
