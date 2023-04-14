@@ -1,8 +1,8 @@
-<h1 align="center" style="color: 660BEC;"> Maria Werlang </h1>
+<h1 align="center"> Maria Werlang </h1>
 <div align="center">
   <a href=""><img src="https://wallpaperaccess.com/full/7790.png" width="1000" height="500" border="0" alt="https://picasion.com/" /></a>
 </div> 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariawerlang&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaWerlang&show_icons=true&count_private=true&hide_border=true&title_color=E0FFFF&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117" alt="Victor Roma github stats" /> 
