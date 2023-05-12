@@ -1,19 +1,35 @@
-<h1 align="center"> Maria Werlang </h1>
+
+<h1 align="center"> MARIA WERLANG </h1>
 <div align="center">
-  <a href=""><img src="https://wallpaperaccess.com/full/7790.png" width="1000" height="500" border="0" alt="https://picasion.com/" /></a>
+  <a href=""><img src="https://images5.alphacoders.com/491/491037.jpg" width="1000" height="600" border="0" alt="https://picasion.com/" /></a>
 </div> 
+
+####
+
+<div align="center"> 
+
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-8CFFDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-werlang666/)
+[![Gmail](https://img.shields.io/badge/Gmail-39B8C6?style=for-the-badge&logo=gmail&logoColor=white)](https://werlang.mariaeduarda@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-275BD8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnalrew666/)
+
+</div>
 
 ##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaWerlang&show_icons=true&count_private=true&hide_border=true&title_color=E0FFFF&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117" alt="Victor Roma github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaWerlang&layout=compact&hide_border=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaWerlang&show_icons=true&count_private=true&hide_border=true&title_color=39B8C6&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117" alt="Victor Roma github stats" /> 
+  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaWerlang&layout=compact&hide_border=true&title_color=39B8C6&text_color=E0FFFF&bg_color=0d1117" />
 </div>
 
+##
+##
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<div align="center" style="display: inline_block">
+
+![html](https://img.shields.io/badge/HTML5-2e49d1?style=for-the-badge&logo=html5&logoColor=white)
+![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/Java-2E49D1?style=for-the-badge&logo=openjdk&logoColor=white)
+![php](https://img.shields.io/badge/PHP-377DFB?style=for-the-badge&logo=php&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-53B6DF?style=for-the-badge&logo=laravel&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-25C6DA?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
