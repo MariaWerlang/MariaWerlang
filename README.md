@@ -4,8 +4,7 @@
   <a href=""><img src="https://images5.alphacoders.com/491/491037.jpg" width="1000" height="600" border="0" alt="https://picasion.com/" /></a>
 </div> 
 
-####
-
+<br>
 <div align="center"> 
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-8CFFDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-werlang666/)
@@ -14,14 +13,13 @@
 
 </div>
 
-##
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaWerlang&show_icons=true&count_private=true&hide_border=true&title_color=39B8C6&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117" alt="Victor Roma github stats" /> 
   <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaWerlang&layout=compact&hide_border=true&title_color=39B8C6&text_color=E0FFFF&bg_color=0d1117" />
 </div>
 
-##
-##
+<br>
 
 <div align="center" style="display: inline_block">
 
