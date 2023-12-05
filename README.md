@@ -7,9 +7,6 @@
 <br>
 <div align="center"> 
 
-[![LinkeIn](https://img.shields.io/badge/LinkedIn-8CFFDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-werlang666/)
-[![Instagram](https://img.shields.io/badge/Instagram-275BD8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnalrew666/)
-
 </div>
 
 
