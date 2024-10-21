@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **I love watching The Witcher!**
 
 
-##  &nbsp;Tech Stack
+##  &nbsp;TECH STACK
 
 <div align="left" style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-000003?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Python-000003?style=for-the-badge&logo=python&logoColor=white" width="100" height="30">
 </div>
 
-##  &nbsp;Database
+##  &nbsp;DATABASE
 
 <div align="left" style="display: inline_block">
   <img src="https://img.shields.io/badge/MySQL-000003?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="30">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Firebase-000003?style=for-the-badge&logo=firebase&logoColor=black" width="100" height="30">
 </div>
 
-##  &nbsp;Frameworks
+##  &nbsp;FRAMEWORKS
 
 <div align="left" style="display: inline_block">
   <img src="https://img.shields.io/badge/Laravel-000003?style=for-the-badge&logo=laravel&logoColor=white" width="100" height="30">
@@ -45,13 +45,25 @@
   <img src="https://img.shields.io/badge/Node.js-000003?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="30">
 </div>
 
-##  &nbsp;GitHub Analytics
+##  &nbsp;GITHUB ANALYTICS
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaWerlang&show_icons=true&count_private=true&hide_border=true&title_color=39B8C6&icon_color=87CEFA&text_color=E0FFFF&bg_color=0d1117"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaWerlang&layout=compact&hide_border=true&title_color=39B8C6&text_color=E0FFFF&bg_color=0d1117"/>
 </div>
 
+##  &nbsp;MORE
+
+### &nbsp;SRs Project 
+<div align="left" style="display: inline-block; margin-right: 10px;">
+    <a href="https://revista.fateczl.edu.br/index.php/engetec_revista/article/view/7" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Artigo%20FATEC-000003?style=for-the-badge&logo=readthedocs&logoColor=white" width="150" height="30">
+    </a>
+  &nbsp;
+    <a href="https://zenodo.org/records/10905888" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/ZENODO-000003?style=for-the-badge&logo=zenodo&logoColor=white" width="150" height="30">
+    </a>
+</div>
 
 
 
