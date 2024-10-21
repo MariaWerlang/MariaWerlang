@@ -1,7 +1,14 @@
 
-# 🐺 MARIA WERLANG 🐺
-<div align="center">
-  <a href=""><img src="https://images5.alphacoders.com/491/491037.jpg" width="1000" height="600" border="0" alt="https://picasion.com/" /></a>
+  
+# Hi, I'm MARIA WERLANG 
+
+
+<div align="center" width="1000px">
+  
+
+![lelele](https://github.com/user-attachments/assets/4f5dcd0e-6754-4ce4-a81a-9a0f106b48ba)
+
+
 </div> 
 
 <br>
