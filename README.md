@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/HTML5-000003?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/CSS3-000003?style=for-the-badge&logo=css3&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/Java-000003?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="30">
+</div>
+<div align="left" style="display: inline_block">
   <img src="https://img.shields.io/badge/PHP-000003?style=for-the-badge&logo=php&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/Kotlin-000003?&style=for-the-badge&logo=kotlin&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/Python-000003?style=for-the-badge&logo=python&logoColor=white" width="100" height="30">
